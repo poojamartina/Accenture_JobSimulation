@@ -1,3 +1,3 @@
-# Content_creation_social_media_company
+Accenture job simulation
 
-A social media company **SOCIAL BUZZ** that deals with content creation has huge amounts of data coming in everyday due to rapid growth and they want to utilize this data to better manage their work in content creation.
+This is a job simulation by Accenture North America. This job simulation includes a case study done on a social media management company. This case study is done with the help of MySQL, Power BI and PowerPoint.
